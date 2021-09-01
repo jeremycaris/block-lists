@@ -1,0 +1,6 @@
+wp-mediaelement
+mediaelement
+understrap-styles
+ugb-style-css
+sofw-swiper
+sofw-animate-compat
