@@ -1,0 +1,9 @@
+wpac_time_js
+gform_recaptcha
+jquery-migrate
+headroom
+sofw-swiper
+sofw-headroom
+sofw-parallax
+sofw-inview
+sofw-animate
